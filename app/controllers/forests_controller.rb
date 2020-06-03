@@ -1,0 +1,2 @@
+class ForestsController < ApplicationController
+end
